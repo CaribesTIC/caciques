@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Caciques"
   text: "Caribes"
-  tagline: Raices Ancestrales
+  tagline: Raíces Ancestrales
   image:
     src: /logo.png
     alt: CaribesTIC

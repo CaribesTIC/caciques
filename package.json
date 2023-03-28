@@ -1,7 +1,14 @@
 {
+  "name": "caciques",
+  "version": "1.0.0",
+  "description": "Ancestral Roots",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.63",
+    "vue": "^3.2.47"
   }
 }

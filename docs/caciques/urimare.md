@@ -2,7 +2,7 @@
 
 ![urimare](./img/urimare.png)
 
->Urimare (1era mujer Cacique de nuestro pais): hija del  Cacique Aramaipuro quien la crió enseñándole estrategias para defenderse y defender a su pueblo. 
+>Urimare (1era mujer Cacique de nuestro pais): hija del  Cacique Aramaipuro quien la crió enseñándole estrategias para defenderse y defender a su pueblo.
 
 Es secuestrada por Sir Walter Raleigh quien luego de matar a Aramaipuro, se lleva a Urimare como trofeo. 
 

@@ -4,13 +4,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Caciques",
   description: "Nuestros Ancestros",
+  base: '/caciques/', //  The default path during deployment / secondary address / base can be used/
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+    nav: [      
+      { text: 'Inicio', link: '/' },
+      { text: 'Comenzar', link: '/caciques/arichuna' },
+      { text: 'CaribesTIC', link: 'https://caribestic.github.io/' }
     ],
-
     sidebar: [
       {
         text: 'Caciques',
@@ -30,18 +31,10 @@ export default defineConfig({
           { text: 'Urimare', link: '/caciques/urimare' },
           { text: 'Urquia', link: '/caciques/urquia' }          
         ]
-      },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
       }
     ],
-
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/CaribesTIC/caciques' }
     ]
   }
 })
